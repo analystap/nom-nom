@@ -4,3 +4,4 @@ scikit-learn
 nltk
 Pillow
 streamlit
+ipython
